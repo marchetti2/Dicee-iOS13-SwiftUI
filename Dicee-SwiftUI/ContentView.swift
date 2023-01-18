@@ -11,7 +11,7 @@ import SwiftUI
 struct ContentView: View {
     
     @State var leftDiceNumber = 1
-    @State var rightDiceNumber = 1
+    @State var rightDiceNumber = 2
     
     var body: some View {
         ZStack {
